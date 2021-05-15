@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="18" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="115755" started-at="2021-05-14T18:29:42 SGT" finished-at="2021-05-14T18:31:37 SGT">
+    <groups>
+    </groups>
+    <test name="CHROME" duration-ms="114392" started-at="2021-05-14T18:29:42 SGT" finished-at="2021-05-14T18:31:36 SGT">
+      <class name="testcases.MiroTest1">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest1@3414a8c3]" name="beforeMethod" is-config="true" duration-ms="19644" started-at="2021-05-14T18:29:42 SGT" finished-at="2021-05-14T18:30:01 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLoginPage()[pri:0, instance:testcases.MiroTest1@3414a8c3]" name="verifyLoginPage" duration-ms="1449" started-at="2021-05-14T18:30:01 SGT" description="Verify Login Page Has All Page Elements" finished-at="2021-05-14T18:30:03 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest1@3414a8c3]" name="afterMethod" is-config="true" duration-ms="4872" started-at="2021-05-14T18:30:03 SGT" finished-at="2021-05-14T18:30:08 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginPage status=SUCCESS method=MiroTest1.verifyLoginPage()[pri:0, instance:testcases.MiroTest1@3414a8c3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest1@3414a8c3]" name="beforeMethod" is-config="true" duration-ms="13907" started-at="2021-05-14T18:30:08 SGT" finished-at="2021-05-14T18:30:22 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInWithoutEmailandPassword()[pri:3, instance:testcases.MiroTest1@3414a8c3]" name="signInWithoutEmailandPassword" duration-ms="11497" started-at="2021-05-14T18:30:22 SGT" description="Verify SignIn Without Email and Password " finished-at="2021-05-14T18:30:33 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithoutEmailandPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest1@3414a8c3]" name="afterMethod" is-config="true" duration-ms="6950" started-at="2021-05-14T18:30:33 SGT" finished-at="2021-05-14T18:30:40 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithoutEmailandPassword status=SUCCESS method=MiroTest1.signInWithoutEmailandPassword()[pri:3, instance:testcases.MiroTest1@3414a8c3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest1@3414a8c3]" name="beforeMethod" is-config="true" duration-ms="16838" started-at="2021-05-14T18:30:40 SGT" finished-at="2021-05-14T18:30:57 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInWithInCorrectEmailandPassword(java.lang.String, java.lang.String)[pri:5, instance:testcases.MiroTest1@3414a8c3]" name="signInWithInCorrectEmailandPassword" duration-ms="7621" started-at="2021-05-14T18:30:57 SGT" description="Verify SignIn With Incorrect Email and Password " data-provider="InValidUserDetails" finished-at="2021-05-14T18:31:04 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[unregisteredemail123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInCorrectEmailandPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest1@3414a8c3]" name="afterMethod" is-config="true" duration-ms="4768" started-at="2021-05-14T18:31:04 SGT" finished-at="2021-05-14T18:31:09 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithInCorrectEmailandPassword status=SUCCESS method=MiroTest1.signInWithInCorrectEmailandPassword(java.lang.String, java.lang.String)[pri:5, instance:testcases.MiroTest1@3414a8c3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest1@3414a8c3]" name="beforeMethod" is-config="true" duration-ms="13718" started-at="2021-05-14T18:31:09 SGT" finished-at="2021-05-14T18:31:23 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyForgotPasswordLink()[pri:6, instance:testcases.MiroTest1@3414a8c3]" name="verifyForgotPasswordLink" duration-ms="8422" started-at="2021-05-14T18:31:23 SGT" description="Verify ForgotPassword Link " finished-at="2021-05-14T18:31:31 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordLink -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest1@3414a8c3]" name="afterMethod" is-config="true" duration-ms="4560" started-at="2021-05-14T18:31:31 SGT" finished-at="2021-05-14T18:31:36 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyForgotPasswordLink status=SUCCESS method=MiroTest1.verifyForgotPasswordLink()[pri:6, instance:testcases.MiroTest1@3414a8c3] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.MiroTest1 -->
+      <class name="testcases.MiroTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest@6c9320c2]" name="beforeMethod" is-config="true" duration-ms="19998" started-at="2021-05-14T18:29:42 SGT" finished-at="2021-05-14T18:30:02 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLoginPage()[pri:0, instance:testcases.MiroTest@6c9320c2]" name="verifyLoginPage" duration-ms="1333" started-at="2021-05-14T18:30:02 SGT" description="Verify Login Page Has All Page Elements" finished-at="2021-05-14T18:30:03 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest@6c9320c2]" name="afterMethod" is-config="true" duration-ms="559" started-at="2021-05-14T18:30:03 SGT" finished-at="2021-05-14T18:30:04 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginPage status=SUCCESS method=MiroTest.verifyLoginPage()[pri:0, instance:testcases.MiroTest@6c9320c2] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest@6c9320c2]" name="beforeMethod" is-config="true" duration-ms="16257" started-at="2021-05-14T18:30:04 SGT" finished-at="2021-05-14T18:30:20 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInWithoutEmailandPassword()[pri:3, instance:testcases.MiroTest@6c9320c2]" name="signInWithoutEmailandPassword" duration-ms="11918" started-at="2021-05-14T18:30:20 SGT" description="Verify SignIn Without Email and Password " finished-at="2021-05-14T18:30:32 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithoutEmailandPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest@6c9320c2]" name="afterMethod" is-config="true" duration-ms="3475" started-at="2021-05-14T18:30:32 SGT" finished-at="2021-05-14T18:30:35 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithoutEmailandPassword status=SUCCESS method=MiroTest.signInWithoutEmailandPassword()[pri:3, instance:testcases.MiroTest@6c9320c2] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest@6c9320c2]" name="beforeMethod" is-config="true" duration-ms="14574" started-at="2021-05-14T18:30:35 SGT" finished-at="2021-05-14T18:30:50 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInWithInCorrectEmailandPassword(java.lang.String, java.lang.String)[pri:5, instance:testcases.MiroTest@6c9320c2]" name="signInWithInCorrectEmailandPassword" duration-ms="9294" started-at="2021-05-14T18:30:50 SGT" description="Verify SignIn With Incorrect Email and Password " data-provider="InValidUserDetails" finished-at="2021-05-14T18:30:59 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[unregisteredemail123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInCorrectEmailandPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest@6c9320c2]" name="afterMethod" is-config="true" duration-ms="4897" started-at="2021-05-14T18:30:59 SGT" finished-at="2021-05-14T18:31:04 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithInCorrectEmailandPassword status=SUCCESS method=MiroTest.signInWithInCorrectEmailandPassword(java.lang.String, java.lang.String)[pri:5, instance:testcases.MiroTest@6c9320c2] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest@6c9320c2]" name="beforeMethod" is-config="true" duration-ms="16686" started-at="2021-05-14T18:31:04 SGT" finished-at="2021-05-14T18:31:21 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyForgotPasswordLink()[pri:6, instance:testcases.MiroTest@6c9320c2]" name="verifyForgotPasswordLink" duration-ms="8277" started-at="2021-05-14T18:31:21 SGT" description="Verify ForgotPassword Link " finished-at="2021-05-14T18:31:29 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordLink -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest@6c9320c2]" name="afterMethod" is-config="true" duration-ms="4754" started-at="2021-05-14T18:31:29 SGT" finished-at="2021-05-14T18:31:34 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyForgotPasswordLink status=SUCCESS method=MiroTest.verifyForgotPasswordLink()[pri:6, instance:testcases.MiroTest@6c9320c2] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.MiroTest -->
+    </test> <!-- CHROME -->
+    <test name="FIREFOX" duration-ms="115744" started-at="2021-05-14T18:29:42 SGT" finished-at="2021-05-14T18:31:37 SGT">
+      <class name="testcases.MiroTest1">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest1@1a865273]" name="beforeMethod" is-config="true" duration-ms="24664" started-at="2021-05-14T18:29:42 SGT" finished-at="2021-05-14T18:30:06 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLoginPage()[pri:0, instance:testcases.MiroTest1@1a865273]" name="verifyLoginPage" duration-ms="568" started-at="2021-05-14T18:30:06 SGT" description="Verify Login Page Has All Page Elements" finished-at="2021-05-14T18:30:07 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest1@1a865273]" name="afterMethod" is-config="true" duration-ms="4630" started-at="2021-05-14T18:30:07 SGT" finished-at="2021-05-14T18:30:12 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginPage status=SUCCESS method=MiroTest1.verifyLoginPage()[pri:0, instance:testcases.MiroTest1@1a865273] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest1@1a865273]" name="beforeMethod" is-config="true" duration-ms="15906" started-at="2021-05-14T18:30:12 SGT" finished-at="2021-05-14T18:30:27 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInWithoutEmailandPassword()[pri:3, instance:testcases.MiroTest1@1a865273]" name="signInWithoutEmailandPassword" duration-ms="9837" started-at="2021-05-14T18:30:27 SGT" description="Verify SignIn Without Email and Password " finished-at="2021-05-14T18:30:37 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithoutEmailandPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest1@1a865273]" name="afterMethod" is-config="true" duration-ms="2334" started-at="2021-05-14T18:30:37 SGT" finished-at="2021-05-14T18:30:40 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithoutEmailandPassword status=SUCCESS method=MiroTest1.signInWithoutEmailandPassword()[pri:3, instance:testcases.MiroTest1@1a865273] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest1@1a865273]" name="beforeMethod" is-config="true" duration-ms="17430" started-at="2021-05-14T18:30:40 SGT" finished-at="2021-05-14T18:30:57 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInWithInCorrectEmailandPassword(java.lang.String, java.lang.String)[pri:5, instance:testcases.MiroTest1@1a865273]" name="signInWithInCorrectEmailandPassword" duration-ms="11473" started-at="2021-05-14T18:30:57 SGT" description="Verify SignIn With Incorrect Email and Password " data-provider="InValidUserDetails" finished-at="2021-05-14T18:31:08 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[unregisteredemail123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInCorrectEmailandPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest1@1a865273]" name="afterMethod" is-config="true" duration-ms="5648" started-at="2021-05-14T18:31:08 SGT" finished-at="2021-05-14T18:31:14 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithInCorrectEmailandPassword status=SUCCESS method=MiroTest1.signInWithInCorrectEmailandPassword(java.lang.String, java.lang.String)[pri:5, instance:testcases.MiroTest1@1a865273] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest1@1a865273]" name="beforeMethod" is-config="true" duration-ms="15471" started-at="2021-05-14T18:31:14 SGT" finished-at="2021-05-14T18:31:30 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyForgotPasswordLink()[pri:6, instance:testcases.MiroTest1@1a865273]" name="verifyForgotPasswordLink" duration-ms="6764" started-at="2021-05-14T18:31:30 SGT" description="Verify ForgotPassword Link " finished-at="2021-05-14T18:31:36 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordLink -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest1@1a865273]" name="afterMethod" is-config="true" duration-ms="878" started-at="2021-05-14T18:31:36 SGT" finished-at="2021-05-14T18:31:37 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyForgotPasswordLink status=SUCCESS method=MiroTest1.verifyForgotPasswordLink()[pri:6, instance:testcases.MiroTest1@1a865273] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.MiroTest1 -->
+      <class name="testcases.MiroTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest@26844abb]" name="beforeMethod" is-config="true" duration-ms="16652" started-at="2021-05-14T18:29:42 SGT" finished-at="2021-05-14T18:29:58 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLoginPage()[pri:0, instance:testcases.MiroTest@26844abb]" name="verifyLoginPage" duration-ms="1641" started-at="2021-05-14T18:29:59 SGT" description="Verify Login Page Has All Page Elements" finished-at="2021-05-14T18:30:01 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest@26844abb]" name="afterMethod" is-config="true" duration-ms="2764" started-at="2021-05-14T18:30:01 SGT" finished-at="2021-05-14T18:30:04 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLoginPage status=SUCCESS method=MiroTest.verifyLoginPage()[pri:0, instance:testcases.MiroTest@26844abb] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest@26844abb]" name="beforeMethod" is-config="true" duration-ms="16428" started-at="2021-05-14T18:30:04 SGT" finished-at="2021-05-14T18:30:20 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInWithoutEmailandPassword()[pri:3, instance:testcases.MiroTest@26844abb]" name="signInWithoutEmailandPassword" duration-ms="9482" started-at="2021-05-14T18:30:20 SGT" description="Verify SignIn Without Email and Password " finished-at="2021-05-14T18:30:29 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithoutEmailandPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest@26844abb]" name="afterMethod" is-config="true" duration-ms="3069" started-at="2021-05-14T18:30:29 SGT" finished-at="2021-05-14T18:30:33 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithoutEmailandPassword status=SUCCESS method=MiroTest.signInWithoutEmailandPassword()[pri:3, instance:testcases.MiroTest@26844abb] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest@26844abb]" name="beforeMethod" is-config="true" duration-ms="16206" started-at="2021-05-14T18:30:33 SGT" finished-at="2021-05-14T18:30:49 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="signInWithInCorrectEmailandPassword(java.lang.String, java.lang.String)[pri:5, instance:testcases.MiroTest@26844abb]" name="signInWithInCorrectEmailandPassword" duration-ms="10474" started-at="2021-05-14T18:30:49 SGT" description="Verify SignIn With Incorrect Email and Password " data-provider="InValidUserDetails" finished-at="2021-05-14T18:30:59 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[unregisteredemail123@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInWithInCorrectEmailandPassword -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest@26844abb]" name="afterMethod" is-config="true" duration-ms="2791" started-at="2021-05-14T18:30:59 SGT" finished-at="2021-05-14T18:31:02 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInWithInCorrectEmailandPassword status=SUCCESS method=MiroTest.signInWithInCorrectEmailandPassword(java.lang.String, java.lang.String)[pri:5, instance:testcases.MiroTest@26844abb] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:testcases.MiroTest@26844abb]" name="beforeMethod" is-config="true" duration-ms="14023" started-at="2021-05-14T18:31:02 SGT" finished-at="2021-05-14T18:31:16 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyForgotPasswordLink()[pri:6, instance:testcases.MiroTest@26844abb]" name="verifyForgotPasswordLink" duration-ms="9504" started-at="2021-05-14T18:31:16 SGT" description="Verify ForgotPassword Link " finished-at="2021-05-14T18:31:26 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPasswordLink -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult, java.lang.String)[pri:0, instance:testcases.MiroTest@26844abb]" name="afterMethod" is-config="true" duration-ms="2613" started-at="2021-05-14T18:31:26 SGT" finished-at="2021-05-14T18:31:28 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyForgotPasswordLink status=SUCCESS method=MiroTest.verifyForgotPasswordLink()[pri:6, instance:testcases.MiroTest@26844abb] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite(java.lang.String)[pri:0, instance:testcases.MiroTest@26844abb]" name="afterSuite" is-config="true" duration-ms="1" started-at="2021-05-14T18:31:37 SGT" finished-at="2021-05-14T18:31:37 SGT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FIREFOX]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testcases.MiroTest -->
+    </test> <!-- FIREFOX -->
+  </suite> <!-- Suite1 -->
+</testng-results>

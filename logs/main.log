@@ -1,0 +1,116 @@
+[INFO ] 2021-05-14 18:29:41.809 - T - 1 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:41.864 - T - 1 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:41.866 - T - 1 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:41.867 - T - 1 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:41.867 - T - 1 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:41.870 - T - 1 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:41.904 - T - 1 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:41.905 - T - 1 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:41.906 - T - 1 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:41.907 - T - 1 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:41.908 - T - 1 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:41.909 - T - 1 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:41.946 - T - 1 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:41.947 - T - 1 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:41.947 - T - 1 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:41.948 - T - 1 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:41.949 - T - 1 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:41.950 - T - 1 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:41.962 - T - 1 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:41.964 - T - 1 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:41.972 - T - 1 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:41.975 - T - 1 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:41.978 - T - 1 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:41.981 - T - 1 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:42.160 - T - 17 base.BaseTest:beforeMethod 64 In Before Method
+[INFO ] 2021-05-14 18:29:42.161 - T - 17 base.BaseTest:beforeMethod 67 Running on windows 10 Operating System
+[INFO ] 2021-05-14 18:29:42.160 - T - 19 base.BaseTest:beforeMethod 64 In Before Method
+[INFO ] 2021-05-14 18:29:42.162 - T - 17 base.BaseTest:beforeMethod 68 Initializing driver for FIREFOX browser
+[INFO ] 2021-05-14 18:29:42.163 - T - 19 base.BaseTest:beforeMethod 67 Running on windows 10 Operating System
+[INFO ] 2021-05-14 18:29:42.163 - T - 19 base.BaseTest:beforeMethod 68 Initializing driver for CHROME browser
+[INFO ] 2021-05-14 18:29:42.164 - T - 18 base.BaseTest:beforeMethod 64 In Before Method
+[INFO ] 2021-05-14 18:29:42.166 - T - 17 driverManager.FirefoxDriverManager:getWebdriver 32 Initializing Firefox driver
+[INFO ] 2021-05-14 18:29:42.167 - T - 18 base.BaseTest:beforeMethod 67 Running on windows 10 Operating System
+[INFO ] 2021-05-14 18:29:42.168 - T - 18 base.BaseTest:beforeMethod 68 Initializing driver for FIREFOX browser
+[INFO ] 2021-05-14 18:29:42.160 - T - 16 base.BaseTest:beforeMethod 64 In Before Method
+[INFO ] 2021-05-14 18:29:42.169 - T - 16 base.BaseTest:beforeMethod 67 Running on windows 10 Operating System
+[INFO ] 2021-05-14 18:29:42.170 - T - 16 base.BaseTest:beforeMethod 68 Initializing driver for CHROME browser
+[INFO ] 2021-05-14 18:29:42.176 - T - 19 driverManager.ChromeDriverManager:getWebdriver 36 Initializing Chrome driver
+[DEBUG] 2021-05-14 18:29:43.476 - Resolution firefox=88 in cache (valid until 18:38:27 14/05/2021 SGT)
+[DEBUG] 2021-05-14 18:29:43.478 - Resolution firefox88=0.29.0 in cache (valid until 17:38:27 15/05/2021 SGT)
+[INFO ] 2021-05-14 18:29:43.479 - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+[DEBUG] 2021-05-14 18:29:43.482 - Resolution chrome=90 in cache (valid until 18:38:12 14/05/2021 SGT)
+[DEBUG] 2021-05-14 18:29:43.483 - Resolution chrome90=90.0.4430.24 in cache (valid until 17:38:12 15/05/2021 SGT)
+[TRACE] 2021-05-14 18:29:43.484 - Checking if geckodriver exists in cache
+[INFO ] 2021-05-14 18:29:43.485 - Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[TRACE] 2021-05-14 18:29:43.491 - Checking if chromedriver exists in cache
+[TRACE] 2021-05-14 18:29:43.542 - Filter cache by geckodriver -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe, C:\Users\T460\.cache\selenium\resolution.properties] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[TRACE] 2021-05-14 18:29:43.543 - Filter cache by 0.29.0 -- input list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[TRACE] 2021-05-14 18:29:43.544 - Filter cache by WIN -- input list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[TRACE] 2021-05-14 18:29:43.548 - Filter cache by chromedriver -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe, C:\Users\T460\.cache\selenium\resolution.properties] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[DEBUG] 2021-05-14 18:29:43.548 - Driver geckodriver 0.29.0 found in cache
+[TRACE] 2021-05-14 18:29:43.549 - Filter cache by 90.0.4430.24 -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[TRACE] 2021-05-14 18:29:43.549 - Filter cache by WIN -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[DEBUG] 2021-05-14 18:29:43.550 - Driver chromedriver 90.0.4430.24 found in cache
+[INFO ] 2021-05-14 18:29:43.552 - Exporting webdriver.chrome.driver as C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-14 18:29:43.557 - Exporting webdriver.gecko.driver as C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe
+[INFO ] 2021-05-14 18:29:46.312 - T - 19 driverManager.ChromeDriverManager:getWebdriver 65 ChromeDriver created and webdriver is-->ChromeDriver: chrome on WINDOWS (fce5a98db640261481250bad1873a17d)
+[INFO ] 2021-05-14 18:29:46.313 - T - 16 driverManager.ChromeDriverManager:getWebdriver 36 Initializing Chrome driver
+[INFO ] 2021-05-14 18:29:46.314 - T - 19 driverManager.ChromeDriverManager:startWebDriverClient 159 Driver after StartWebdriverClient-->ChromeDriver: chrome on WINDOWS (fce5a98db640261481250bad1873a17d)
+[INFO ] 2021-05-14 18:29:46.315 - T - 19 base.BaseTest:beforeMethod 72 Chrome Driver value is -->ChromeDriver: chrome on WINDOWS (fce5a98db640261481250bad1873a17d)
+[DEBUG] 2021-05-14 18:29:46.331 - Resolution chrome=90 in cache (valid until 18:38:12 14/05/2021 SGT)
+[DEBUG] 2021-05-14 18:29:46.332 - Resolution chrome90=90.0.4430.24 in cache (valid until 17:38:12 15/05/2021 SGT)
+[INFO ] 2021-05-14 18:29:46.332 - Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[TRACE] 2021-05-14 18:29:46.341 - Checking if chromedriver exists in cache
+[TRACE] 2021-05-14 18:29:46.347 - Filter cache by chromedriver -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe, C:\Users\T460\.cache\selenium\resolution.properties] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[TRACE] 2021-05-14 18:29:46.347 - Filter cache by 90.0.4430.24 -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[TRACE] 2021-05-14 18:29:46.347 - Filter cache by WIN -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[DEBUG] 2021-05-14 18:29:46.348 - Driver chromedriver 90.0.4430.24 found in cache
+[INFO ] 2021-05-14 18:29:46.349 - Exporting webdriver.chrome.driver as C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-14 18:29:46.370 - T - 19 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:46.371 - T - 19 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:46.371 - T - 19 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:48.062 - T - 16 driverManager.ChromeDriverManager:getWebdriver 65 ChromeDriver created and webdriver is-->ChromeDriver: chrome on WINDOWS (e24a901d9aeb25db35221f2d4c64cbfd)
+[INFO ] 2021-05-14 18:29:48.062 - T - 16 driverManager.ChromeDriverManager:startWebDriverClient 159 Driver after StartWebdriverClient-->ChromeDriver: chrome on WINDOWS (e24a901d9aeb25db35221f2d4c64cbfd)
+[INFO ] 2021-05-14 18:29:48.063 - T - 16 base.BaseTest:beforeMethod 72 Chrome Driver value is -->ChromeDriver: chrome on WINDOWS (e24a901d9aeb25db35221f2d4c64cbfd)
+[INFO ] 2021-05-14 18:29:48.063 - T - 16 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:48.064 - T - 16 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:48.064 - T - 16 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:51.839 - T - 17 driverManager.FirefoxDriverManager:getWebdriver 46 FirefoxDriver created
+[INFO ] 2021-05-14 18:29:51.840 - T - 17 driverManager.FirefoxDriverManager:getWebdriver 48 FirefoxDriver created and webdriver is-->FirefoxDriver: firefox on WINDOWS (8a7ff59b-c740-4a2d-9f69-1f279d27ed72)
+[INFO ] 2021-05-14 18:29:51.840 - T - 17 driverManager.FirefoxDriverManager:startWebDriverClient 140 Driver after StartWebdriverClient-->FirefoxDriver: firefox on WINDOWS (8a7ff59b-c740-4a2d-9f69-1f279d27ed72)
+[INFO ] 2021-05-14 18:29:51.841 - T - 17 base.BaseTest:beforeMethod 75 Firefox Driver value is -->FirefoxDriver: firefox on WINDOWS (8a7ff59b-c740-4a2d-9f69-1f279d27ed72)
+[INFO ] 2021-05-14 18:29:51.847 - T - 17 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:29:51.847 - T - 17 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:29:51.847 - T - 17 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:29:51.895 - T - 18 driverManager.FirefoxDriverManager:getWebdriver 32 Initializing Firefox driver
+[DEBUG] 2021-05-14 18:29:51.922 - Resolution firefox=88 in cache (valid until 18:38:27 14/05/2021 SGT)
+[DEBUG] 2021-05-14 18:29:51.923 - Resolution firefox88=0.29.0 in cache (valid until 17:38:27 15/05/2021 SGT)
+[INFO ] 2021-05-14 18:29:51.924 - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+[TRACE] 2021-05-14 18:29:51.931 - Checking if geckodriver exists in cache
+[TRACE] 2021-05-14 18:29:51.941 - Filter cache by geckodriver -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe, C:\Users\T460\.cache\selenium\resolution.properties] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[TRACE] 2021-05-14 18:29:51.942 - Filter cache by 0.29.0 -- input list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[TRACE] 2021-05-14 18:29:51.943 - Filter cache by WIN -- input list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[DEBUG] 2021-05-14 18:29:51.944 - Driver geckodriver 0.29.0 found in cache
+[INFO ] 2021-05-14 18:29:51.947 - Exporting webdriver.gecko.driver as C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe
+[INFO ] 2021-05-14 18:29:58.730 - T - 17 utils.WebEventListener:afterNavigateTo 17 Navigated to:'https://miro.com/login'
+[INFO ] 2021-05-14 18:29:59.113 - T - 19 utils.WebEventListener:afterNavigateTo 17 Navigated to:'https://miro.com/login'
+[INFO ] 2021-05-14 18:30:00.264 - T - 18 driverManager.FirefoxDriverManager:getWebdriver 46 FirefoxDriver created
+[INFO ] 2021-05-14 18:30:00.265 - T - 18 driverManager.FirefoxDriverManager:getWebdriver 48 FirefoxDriver created and webdriver is-->FirefoxDriver: firefox on WINDOWS (7a6965be-b914-49c0-b825-3a96e453b53b)
+[INFO ] 2021-05-14 18:30:00.266 - T - 18 driverManager.FirefoxDriverManager:startWebDriverClient 140 Driver after StartWebdriverClient-->FirefoxDriver: firefox on WINDOWS (7a6965be-b914-49c0-b825-3a96e453b53b)
+[INFO ] 2021-05-14 18:30:00.267 - T - 18 base.BaseTest:beforeMethod 75 Firefox Driver value is -->FirefoxDriver: firefox on WINDOWS (7a6965be-b914-49c0-b825-3a96e453b53b)
+[INFO ] 2021-05-14 18:30:00.267 - T - 18 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:30:00.267 - T - 18 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:30:00.268 - T - 18 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:30:00.915 - T - 16 utils.WebEventListener:afterNavigateTo 17 Navigated to:'https://miro.com/login'
+[INFO ] 2021-05-14 18:30:06.747 - T - 18 utils.WebEventListener:afterNavigateTo 17 Navigated to:'https://miro.com/login'
+[INFO ] 2021-05-14 18:31:36.461 - T - 14 utils.Log:endTestCase 25 
+
+************** Execution End : ========CHROMETest Finished========== on Thread 14**************
+
+[INFO ] 2021-05-14 18:31:37.772 - T - 15 utils.Log:endTestCase 25 
+
+************** Execution End : ========FIREFOXTest Finished========== on Thread 15**************
+
+[INFO ] 2021-05-14 18:31:37.774 - T - 1 base.BaseTest:afterSuite 54 In After suite
+[INFO ] 2021-05-14 18:31:37.774 - T - 1 base.BaseTest:afterSuite 55 Stopping driver for FIREFOX browser

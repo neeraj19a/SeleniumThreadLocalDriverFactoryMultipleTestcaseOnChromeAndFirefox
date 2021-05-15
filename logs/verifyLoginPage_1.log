@@ -1,0 +1,186 @@
+[INFO ] 2021-05-14 18:29:59.994 - T - 17 utils.Log:startTestCase 19 
+
+************** Execution Started : verifyLoginPage on Thread 17**************
+
+[INFO ] 2021-05-14 18:30:00.095 - T - 17 utils.ListenerClass:onTestStart 36 ========verifyLoginPageTest is starting========
+[INFO ] 2021-05-14 18:30:00.434 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: overlay-signup__btn
+[INFO ] 2021-05-14 18:30:00.538 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//a[@class='overlay-signup__logo']
+[INFO ] 2021-05-14 18:30:00.575 - T - 17 pages.CommonNav:verifyMiroLogoandSignUpButton 52 Common Nav looks fine , Miro Logo and SignUp Button is present
+[INFO ] 2021-05-14 18:30:00.609 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__container']/h1
+[INFO ] 2021-05-14 18:30:00.661 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__container']/h1
+[INFO ] 2021-05-14 18:30:00.738 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-google-button
+[INFO ] 2021-05-14 18:30:00.789 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-slack-button
+[INFO ] 2021-05-14 18:30:00.885 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-office365-button
+[INFO ] 2021-05-14 18:30:00.934 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: apple-auth
+[INFO ] 2021-05-14 18:30:01.037 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: signup__separator
+[INFO ] 2021-05-14 18:30:01.065 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: email
+[INFO ] 2021-05-14 18:30:01.095 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: password
+[INFO ] 2021-05-14 18:30:01.120 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__recovery']/a
+[INFO ] 2021-05-14 18:30:01.164 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: signup__submit
+[INFO ] 2021-05-14 18:30:01.209 - T - 17 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__under-submit']/a
+[INFO ] 2021-05-14 18:30:01.252 - T - 17 pages.LoginPage:verifyLogInPage 165  Login Page looks GOOD with all Page Elements Present
+[INFO ] 2021-05-14 18:30:01.280 - T - 17 utils.ListenerClass:onTestSuccess 42 ========verifyLoginPageTest completed successfully========
+[INFO ] 2021-05-14 18:30:01.285 - T - 17 base.BaseTest:afterMethod 111 In After Method
+[INFO ] 2021-05-14 18:30:01.286 - T - 17 base.BaseTest:afterMethod 118 In After Method, Test verifyLoginPage is Ending
+[INFO ] 2021-05-14 18:30:01.287 - T - 17 base.BaseTest:afterMethod 119 Taking Screenshot
+[INFO ] 2021-05-14 18:30:01.288 - T - 17 base.BaseTest:screenShot 99 Firefox-->FirefoxDriver: firefox on WINDOWS (8a7ff59b-c740-4a2d-9f69-1f279d27ed72)
+[INFO ] 2021-05-14 18:30:01.792 - T - 19 utils.Log:startTestCase 19 
+
+************** Execution Started : verifyLoginPage on Thread 19**************
+
+[INFO ] 2021-05-14 18:30:01.793 - T - 19 utils.ListenerClass:onTestStart 36 ========verifyLoginPageTest is starting========
+[INFO ] 2021-05-14 18:30:01.907 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: overlay-signup__btn
+[INFO ] 2021-05-14 18:30:02.013 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//a[@class='overlay-signup__logo']
+[INFO ] 2021-05-14 18:30:02.062 - T - 19 pages.CommonNav:verifyMiroLogoandSignUpButton 52 Common Nav looks fine , Miro Logo and SignUp Button is present
+[INFO ] 2021-05-14 18:30:02.109 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__container']/h1
+[INFO ] 2021-05-14 18:30:02.142 - T - 16 utils.Log:startTestCase 19 
+
+************** Execution Started : verifyLoginPage on Thread 16**************
+
+[INFO ] 2021-05-14 18:30:02.395 - T - 16 utils.ListenerClass:onTestStart 36 ========verifyLoginPageTest is starting========
+[INFO ] 2021-05-14 18:30:02.437 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__container']/h1
+[INFO ] 2021-05-14 18:30:02.443 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: overlay-signup__btn
+[INFO ] 2021-05-14 18:30:02.546 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//a[@class='overlay-signup__logo']
+[INFO ] 2021-05-14 18:30:02.547 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-google-button
+[INFO ] 2021-05-14 18:30:02.603 - T - 16 pages.CommonNav:verifyMiroLogoandSignUpButton 52 Common Nav looks fine , Miro Logo and SignUp Button is present
+[INFO ] 2021-05-14 18:30:02.628 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-slack-button
+[INFO ] 2021-05-14 18:30:02.638 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__container']/h1
+[INFO ] 2021-05-14 18:30:02.688 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-office365-button
+[INFO ] 2021-05-14 18:30:02.701 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__container']/h1
+[INFO ] 2021-05-14 18:30:02.835 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: apple-auth
+[INFO ] 2021-05-14 18:30:02.902 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-google-button
+[INFO ] 2021-05-14 18:30:02.937 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: signup__separator
+[INFO ] 2021-05-14 18:30:02.962 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-slack-button
+[INFO ] 2021-05-14 18:30:02.982 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: email
+[INFO ] 2021-05-14 18:30:03.015 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-office365-button
+[INFO ] 2021-05-14 18:30:03.023 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: password
+[INFO ] 2021-05-14 18:30:03.058 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__recovery']/a
+[INFO ] 2021-05-14 18:30:03.058 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: apple-auth
+[INFO ] 2021-05-14 18:30:03.117 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: signup__separator
+[INFO ] 2021-05-14 18:30:03.123 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: signup__submit
+[INFO ] 2021-05-14 18:30:03.187 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: email
+[INFO ] 2021-05-14 18:30:03.196 - T - 19 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__under-submit']/a
+[INFO ] 2021-05-14 18:30:03.223 - T - 19 pages.LoginPage:verifyLogInPage 165  Login Page looks GOOD with all Page Elements Present
+[INFO ] 2021-05-14 18:30:03.227 - T - 19 utils.ListenerClass:onTestSuccess 42 ========verifyLoginPageTest completed successfully========
+[INFO ] 2021-05-14 18:30:03.229 - T - 19 base.BaseTest:afterMethod 111 In After Method
+[INFO ] 2021-05-14 18:30:03.229 - T - 19 base.BaseTest:afterMethod 118 In After Method, Test verifyLoginPage is Ending
+[INFO ] 2021-05-14 18:30:03.229 - T - 19 base.BaseTest:afterMethod 119 Taking Screenshot
+[INFO ] 2021-05-14 18:30:03.230 - T - 19 base.BaseTest:screenShot 95 Chrome-->ChromeDriver: chrome on WINDOWS (fce5a98db640261481250bad1873a17d)
+[INFO ] 2021-05-14 18:30:03.235 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: password
+[INFO ] 2021-05-14 18:30:03.291 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__recovery']/a
+[INFO ] 2021-05-14 18:30:03.359 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: signup__submit
+[INFO ] 2021-05-14 18:30:03.409 - T - 16 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__under-submit']/a
+[INFO ] 2021-05-14 18:30:03.471 - T - 16 pages.LoginPage:verifyLogInPage 165  Login Page looks GOOD with all Page Elements Present
+[INFO ] 2021-05-14 18:30:03.474 - T - 16 utils.ListenerClass:onTestSuccess 42 ========verifyLoginPageTest completed successfully========
+[INFO ] 2021-05-14 18:30:03.475 - T - 16 base.BaseTest:afterMethod 111 In After Method
+[INFO ] 2021-05-14 18:30:03.476 - T - 16 base.BaseTest:afterMethod 118 In After Method, Test verifyLoginPage is Ending
+[INFO ] 2021-05-14 18:30:03.476 - T - 16 base.BaseTest:afterMethod 119 Taking Screenshot
+[INFO ] 2021-05-14 18:30:03.476 - T - 16 base.BaseTest:screenShot 95 Chrome-->ChromeDriver: chrome on WINDOWS (e24a901d9aeb25db35221f2d4c64cbfd)
+[INFO ] 2021-05-14 18:30:04.038 - T - 16 base.BaseTest:beforeMethod 64 In Before Method
+[INFO ] 2021-05-14 18:30:04.038 - T - 16 base.BaseTest:beforeMethod 67 Running on windows 10 Operating System
+[INFO ] 2021-05-14 18:30:04.038 - T - 16 base.BaseTest:beforeMethod 68 Initializing driver for CHROME browser
+[INFO ] 2021-05-14 18:30:04.039 - T - 16 driverManager.ChromeDriverManager:getWebdriver 36 Initializing Chrome driver
+[DEBUG] 2021-05-14 18:30:04.050 - Resolution chrome=90 in cache (valid until 18:38:12 14/05/2021 SGT)
+[INFO ] 2021-05-14 18:30:04.052 - T - 17 base.BaseTest:beforeMethod 64 In Before Method
+[DEBUG] 2021-05-14 18:30:04.052 - Resolution chrome90=90.0.4430.24 in cache (valid until 17:38:12 15/05/2021 SGT)
+[INFO ] 2021-05-14 18:30:04.052 - Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[INFO ] 2021-05-14 18:30:04.052 - T - 17 base.BaseTest:beforeMethod 67 Running on windows 10 Operating System
+[INFO ] 2021-05-14 18:30:04.053 - T - 17 base.BaseTest:beforeMethod 68 Initializing driver for FIREFOX browser
+[INFO ] 2021-05-14 18:30:04.053 - T - 17 driverManager.FirefoxDriverManager:getWebdriver 32 Initializing Firefox driver
+[TRACE] 2021-05-14 18:30:04.056 - Checking if chromedriver exists in cache
+[DEBUG] 2021-05-14 18:30:04.063 - Resolution firefox=88 in cache (valid until 18:38:27 14/05/2021 SGT)
+[DEBUG] 2021-05-14 18:30:04.064 - Resolution firefox88=0.29.0 in cache (valid until 17:38:27 15/05/2021 SGT)
+[INFO ] 2021-05-14 18:30:04.064 - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+[TRACE] 2021-05-14 18:30:04.066 - Checking if geckodriver exists in cache
+[TRACE] 2021-05-14 18:30:04.066 - Filter cache by chromedriver -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe, C:\Users\T460\.cache\selenium\resolution.properties] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[TRACE] 2021-05-14 18:30:04.067 - Filter cache by 90.0.4430.24 -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[TRACE] 2021-05-14 18:30:04.069 - Filter cache by WIN -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[DEBUG] 2021-05-14 18:30:04.070 - Driver chromedriver 90.0.4430.24 found in cache
+[TRACE] 2021-05-14 18:30:04.070 - Filter cache by geckodriver -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe, C:\Users\T460\.cache\selenium\resolution.properties] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[TRACE] 2021-05-14 18:30:04.070 - Filter cache by 0.29.0 -- input list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[TRACE] 2021-05-14 18:30:04.070 - Filter cache by WIN -- input list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[DEBUG] 2021-05-14 18:30:04.071 - Driver geckodriver 0.29.0 found in cache
+[INFO ] 2021-05-14 18:30:04.072 - Exporting webdriver.gecko.driver as C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe
+[INFO ] 2021-05-14 18:30:04.072 - Exporting webdriver.chrome.driver as C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-14 18:30:05.604 - T - 16 driverManager.ChromeDriverManager:getWebdriver 65 ChromeDriver created and webdriver is-->ChromeDriver: chrome on WINDOWS (0abf75ab25e19608cc86085b831a3e17)
+[INFO ] 2021-05-14 18:30:05.605 - T - 16 driverManager.ChromeDriverManager:startWebDriverClient 159 Driver after StartWebdriverClient-->ChromeDriver: chrome on WINDOWS (0abf75ab25e19608cc86085b831a3e17)
+[INFO ] 2021-05-14 18:30:05.605 - T - 16 base.BaseTest:beforeMethod 72 Chrome Driver value is -->ChromeDriver: chrome on WINDOWS (0abf75ab25e19608cc86085b831a3e17)
+[INFO ] 2021-05-14 18:30:05.605 - T - 16 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:30:05.606 - T - 16 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:30:05.606 - T - 16 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:30:06.810 - T - 18 utils.Log:startTestCase 19 
+
+************** Execution Started : verifyLoginPage on Thread 18**************
+
+[INFO ] 2021-05-14 18:30:06.810 - T - 18 utils.ListenerClass:onTestStart 36 ========verifyLoginPageTest is starting========
+[INFO ] 2021-05-14 18:30:06.838 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: overlay-signup__btn
+[INFO ] 2021-05-14 18:30:06.883 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//a[@class='overlay-signup__logo']
+[INFO ] 2021-05-14 18:30:06.911 - T - 18 pages.CommonNav:verifyMiroLogoandSignUpButton 52 Common Nav looks fine , Miro Logo and SignUp Button is present
+[INFO ] 2021-05-14 18:30:06.920 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__container']/h1
+[INFO ] 2021-05-14 18:30:06.959 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__container']/h1
+[INFO ] 2021-05-14 18:30:07.001 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-google-button
+[INFO ] 2021-05-14 18:30:07.037 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-slack-button
+[INFO ] 2021-05-14 18:30:07.078 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: kmq-office365-button
+[INFO ] 2021-05-14 18:30:07.121 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: apple-auth
+[INFO ] 2021-05-14 18:30:07.178 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: signup__separator
+[INFO ] 2021-05-14 18:30:07.203 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: email
+[INFO ] 2021-05-14 18:30:07.227 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.id: password
+[INFO ] 2021-05-14 18:30:07.254 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__recovery']/a
+[INFO ] 2021-05-14 18:30:07.297 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.className: signup__submit
+[INFO ] 2021-05-14 18:30:07.336 - T - 18 utils.WebEventListener:afterFindBy 62 Found Element By : By.xpath: .//div[@class='signup__under-submit']/a
+[INFO ] 2021-05-14 18:30:07.372 - T - 18 pages.LoginPage:verifyLogInPage 165  Login Page looks GOOD with all Page Elements Present
+[INFO ] 2021-05-14 18:30:07.374 - T - 18 utils.ListenerClass:onTestSuccess 42 ========verifyLoginPageTest completed successfully========
+[INFO ] 2021-05-14 18:30:07.376 - T - 18 base.BaseTest:afterMethod 111 In After Method
+[INFO ] 2021-05-14 18:30:07.376 - T - 18 base.BaseTest:afterMethod 118 In After Method, Test verifyLoginPage is Ending
+[INFO ] 2021-05-14 18:30:07.377 - T - 18 base.BaseTest:afterMethod 119 Taking Screenshot
+[INFO ] 2021-05-14 18:30:07.377 - T - 18 base.BaseTest:screenShot 99 Firefox-->FirefoxDriver: firefox on WINDOWS (7a6965be-b914-49c0-b825-3a96e453b53b)
+[INFO ] 2021-05-14 18:30:08.101 - T - 19 base.BaseTest:beforeMethod 64 In Before Method
+[INFO ] 2021-05-14 18:30:08.101 - T - 19 base.BaseTest:beforeMethod 67 Running on windows 10 Operating System
+[INFO ] 2021-05-14 18:30:08.102 - T - 19 base.BaseTest:beforeMethod 68 Initializing driver for CHROME browser
+[INFO ] 2021-05-14 18:30:08.102 - T - 19 driverManager.ChromeDriverManager:getWebdriver 36 Initializing Chrome driver
+[DEBUG] 2021-05-14 18:30:08.110 - Resolution chrome=90 in cache (valid until 18:38:12 14/05/2021 SGT)
+[DEBUG] 2021-05-14 18:30:08.112 - Resolution chrome90=90.0.4430.24 in cache (valid until 17:38:12 15/05/2021 SGT)
+[INFO ] 2021-05-14 18:30:08.112 - Using chromedriver 90.0.4430.24 (resolved driver for Chrome 90)
+[TRACE] 2021-05-14 18:30:08.114 - Checking if chromedriver exists in cache
+[TRACE] 2021-05-14 18:30:08.118 - Filter cache by chromedriver -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe, C:\Users\T460\.cache\selenium\resolution.properties] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[TRACE] 2021-05-14 18:30:08.118 - Filter cache by 90.0.4430.24 -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[TRACE] 2021-05-14 18:30:08.118 - Filter cache by WIN -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] -- output list [C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe] 
+[DEBUG] 2021-05-14 18:30:08.119 - Driver chromedriver 90.0.4430.24 found in cache
+[INFO ] 2021-05-14 18:30:08.120 - Exporting webdriver.chrome.driver as C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe
+[INFO ] 2021-05-14 18:30:10.474 - T - 19 driverManager.ChromeDriverManager:getWebdriver 65 ChromeDriver created and webdriver is-->ChromeDriver: chrome on WINDOWS (a9fdf61ef9f6a36029e1fe45e0ce9389)
+[INFO ] 2021-05-14 18:30:10.474 - T - 19 driverManager.ChromeDriverManager:startWebDriverClient 159 Driver after StartWebdriverClient-->ChromeDriver: chrome on WINDOWS (a9fdf61ef9f6a36029e1fe45e0ce9389)
+[INFO ] 2021-05-14 18:30:10.475 - T - 19 base.BaseTest:beforeMethod 72 Chrome Driver value is -->ChromeDriver: chrome on WINDOWS (a9fdf61ef9f6a36029e1fe45e0ce9389)
+[INFO ] 2021-05-14 18:30:10.475 - T - 19 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:30:10.475 - T - 19 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:30:10.476 - T - 19 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:30:11.949 - T - 17 driverManager.FirefoxDriverManager:getWebdriver 46 FirefoxDriver created
+[INFO ] 2021-05-14 18:30:11.949 - T - 17 driverManager.FirefoxDriverManager:getWebdriver 48 FirefoxDriver created and webdriver is-->FirefoxDriver: firefox on WINDOWS (4c73ade6-8752-419f-aae0-16ab096dd811)
+[INFO ] 2021-05-14 18:30:11.950 - T - 17 driverManager.FirefoxDriverManager:startWebDriverClient 140 Driver after StartWebdriverClient-->FirefoxDriver: firefox on WINDOWS (4c73ade6-8752-419f-aae0-16ab096dd811)
+[INFO ] 2021-05-14 18:30:11.950 - T - 17 base.BaseTest:beforeMethod 75 Firefox Driver value is -->FirefoxDriver: firefox on WINDOWS (4c73ade6-8752-419f-aae0-16ab096dd811)
+[INFO ] 2021-05-14 18:30:11.950 - T - 17 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:30:11.951 - T - 17 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:30:11.951 - T - 17 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:30:12.008 - T - 18 base.BaseTest:beforeMethod 64 In Before Method
+[INFO ] 2021-05-14 18:30:12.009 - T - 18 base.BaseTest:beforeMethod 67 Running on windows 10 Operating System
+[INFO ] 2021-05-14 18:30:12.009 - T - 18 base.BaseTest:beforeMethod 68 Initializing driver for FIREFOX browser
+[INFO ] 2021-05-14 18:30:12.010 - T - 18 driverManager.FirefoxDriverManager:getWebdriver 32 Initializing Firefox driver
+[DEBUG] 2021-05-14 18:30:12.020 - Resolution firefox=88 in cache (valid until 18:38:27 14/05/2021 SGT)
+[DEBUG] 2021-05-14 18:30:12.021 - Resolution firefox88=0.29.0 in cache (valid until 17:38:27 15/05/2021 SGT)
+[INFO ] 2021-05-14 18:30:12.021 - Using geckodriver 0.29.0 (resolved driver for Firefox 88)
+[TRACE] 2021-05-14 18:30:12.024 - Checking if geckodriver exists in cache
+[TRACE] 2021-05-14 18:30:12.029 - Filter cache by geckodriver -- input list [C:\Users\T460\.cache\selenium\chromedriver\win32\2.36\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe, C:\Users\T460\.cache\selenium\chromedriver\win32\90.0.4430.24\chromedriver.exe, C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe, C:\Users\T460\.cache\selenium\resolution.properties] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[TRACE] 2021-05-14 18:30:12.029 - Filter cache by 0.29.0 -- input list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[TRACE] 2021-05-14 18:30:12.030 - Filter cache by WIN -- input list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] -- output list [C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe] 
+[DEBUG] 2021-05-14 18:30:12.031 - Driver geckodriver 0.29.0 found in cache
+[INFO ] 2021-05-14 18:30:12.033 - Exporting webdriver.gecko.driver as C:\Users\T460\.cache\selenium\geckodriver\win64\0.29.0\geckodriver.exe
+[INFO ] 2021-05-14 18:30:19.241 - T - 16 utils.WebEventListener:afterNavigateTo 17 Navigated to:'https://miro.com/login'
+[INFO ] 2021-05-14 18:30:20.443 - T - 17 utils.WebEventListener:afterNavigateTo 17 Navigated to:'https://miro.com/login'
+[INFO ] 2021-05-14 18:30:20.720 - T - 18 driverManager.FirefoxDriverManager:getWebdriver 46 FirefoxDriver created
+[INFO ] 2021-05-14 18:30:20.721 - T - 18 driverManager.FirefoxDriverManager:getWebdriver 48 FirefoxDriver created and webdriver is-->FirefoxDriver: firefox on WINDOWS (67f454a9-959a-49e1-ba6a-4ddc3deb61bc)
+[INFO ] 2021-05-14 18:30:20.721 - T - 18 driverManager.FirefoxDriverManager:startWebDriverClient 140 Driver after StartWebdriverClient-->FirefoxDriver: firefox on WINDOWS (67f454a9-959a-49e1-ba6a-4ddc3deb61bc)
+[INFO ] 2021-05-14 18:30:20.721 - T - 18 base.BaseTest:beforeMethod 75 Firefox Driver value is -->FirefoxDriver: firefox on WINDOWS (67f454a9-959a-49e1-ba6a-4ddc3deb61bc)
+[INFO ] 2021-05-14 18:30:20.721 - T - 18 utils.PropertyManager:getProperty 30 OS value-->windows 10
+[INFO ] 2021-05-14 18:30:20.722 - T - 18 utils.PropertyManager:getProperty 44 Finding configuration.properties On Windows on the path-->C:\Users\T460\Desktop\WEBAutomationFramework[Miro]\qa-test-miro-[web-test]\src\main\java\configs\configuration.properties
+[INFO ] 2021-05-14 18:30:20.722 - T - 18 utils.PropertyManager:getProperty 76 Property File Loaded
+[INFO ] 2021-05-14 18:30:21.121 - T - 19 utils.WebEventListener:afterNavigateTo 17 Navigated to:'https://miro.com/login'
+[INFO ] 2021-05-14 18:30:27.874 - T - 18 utils.WebEventListener:afterNavigateTo 17 Navigated to:'https://miro.com/login'
